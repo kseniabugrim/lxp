@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e55bfb5.chunk.css",
-    "main.js": "/static/js/main.fa16adda.chunk.js",
-    "main.js.map": "/static/js/main.fa16adda.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.19a37b3f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.19a37b3f.js.map",
-    "static/js/2.fe9d36da.chunk.js": "/static/js/2.fe9d36da.chunk.js",
-    "static/js/2.fe9d36da.chunk.js.map": "/static/js/2.fe9d36da.chunk.js.map",
-    "static/js/3.11983898.chunk.js": "/static/js/3.11983898.chunk.js",
-    "static/js/3.11983898.chunk.js.map": "/static/js/3.11983898.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2e55bfb5.chunk.css.map": "/static/css/main.2e55bfb5.chunk.css.map",
-    "static/js/2.fe9d36da.chunk.js.LICENSE.txt": "/static/js/2.fe9d36da.chunk.js.LICENSE.txt",
-    "static/media/img1.c97d4c43.jpg": "/static/media/img1.c97d4c43.jpg",
-    "static/media/img2.f9408d04.jpg": "/static/media/img2.f9408d04.jpg",
-    "static/media/preloader.7a2cbfda.svg": "/static/media/preloader.7a2cbfda.svg"
+    "main.css": "/lxp/static/css/main.2e55bfb5.chunk.css",
+    "main.js": "/lxp/static/js/main.fa16adda.chunk.js",
+    "main.js.map": "/lxp/static/js/main.fa16adda.chunk.js.map",
+    "runtime-main.js": "/lxp/static/js/runtime-main.1a02b24d.js",
+    "runtime-main.js.map": "/lxp/static/js/runtime-main.1a02b24d.js.map",
+    "static/js/2.4461e834.chunk.js": "/lxp/static/js/2.4461e834.chunk.js",
+    "static/js/2.4461e834.chunk.js.map": "/lxp/static/js/2.4461e834.chunk.js.map",
+    "static/js/3.11983898.chunk.js": "/lxp/static/js/3.11983898.chunk.js",
+    "static/js/3.11983898.chunk.js.map": "/lxp/static/js/3.11983898.chunk.js.map",
+    "index.html": "/lxp/index.html",
+    "static/css/main.2e55bfb5.chunk.css.map": "/lxp/static/css/main.2e55bfb5.chunk.css.map",
+    "static/js/2.4461e834.chunk.js.LICENSE.txt": "/lxp/static/js/2.4461e834.chunk.js.LICENSE.txt",
+    "static/media/img1.c97d4c43.jpg": "/lxp/static/media/img1.c97d4c43.jpg",
+    "static/media/img2.f9408d04.jpg": "/lxp/static/media/img2.f9408d04.jpg",
+    "static/media/preloader.7a2cbfda.svg": "/lxp/static/media/preloader.7a2cbfda.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.19a37b3f.js",
-    "static/js/2.fe9d36da.chunk.js",
+    "static/js/runtime-main.1a02b24d.js",
+    "static/js/2.4461e834.chunk.js",
     "static/css/main.2e55bfb5.chunk.css",
     "static/js/main.fa16adda.chunk.js"
   ]
